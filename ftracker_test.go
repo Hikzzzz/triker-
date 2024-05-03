@@ -1,4 +1,4 @@
-package ftraker
+package main
 
 import (
 	"testing"
